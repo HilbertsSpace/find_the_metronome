@@ -1,0 +1,7 @@
+PyAudio
+mysql
+pandas
+numpy
+scikit-learn
+matplotlib
+wave
